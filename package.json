@@ -3,15 +3,6 @@
   "version": "1.0.0",
   "description": "My quick take on the Bootstrap carousel. Some simple modifications to extend functionality.",
   "main": "index.js",
-  "browserify-shim": {
-    "jquery": "$",
-    "jquery-mobile": {
-      "exports": "$.mobile",
-      "depends": [
-        "jquery:$"
-      ]
-    }
-  },
   "browserslist": [
     "> 1%",
     "last 2 versions"

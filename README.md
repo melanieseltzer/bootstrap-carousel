@@ -5,7 +5,9 @@ My quick attempt at extending Bootstrap carousel functionality. Using JQuery for
 
 Thanks for the help, Link :point_right::sunglasses::point_right:
 
-## :point_right: Getting Started
+Live preview: https://melanieseltzer.github.io/bootstrap-carousel/
+
+## Local Development
 
 ### Installing
 

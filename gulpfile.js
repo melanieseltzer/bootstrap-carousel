@@ -94,7 +94,6 @@ gulp.task('tmp:sass', function(){
     .pipe(plumber())
 		.pipe(sourcemaps.init())
     .pipe(sass({
-      // Vendor files
       includePaths: paths.vendor.css
     }))
     .pipe(postcss([ autoprefixer() ]))
@@ -168,7 +167,6 @@ gulp.task('prod:css', function () {
   return gulp.src(paths.styles.src)
     .pipe(plumber())
     .pipe(sass({
-      // Vendor files
       includePaths: paths.vendor.css
     }))
     .pipe(postcss([ autoprefixer() ]))

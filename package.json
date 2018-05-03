@@ -21,15 +21,15 @@
   },
   "homepage": "https://github.com/melanieseltzer/bootstrap-carousel#readme",
   "devDependencies": {
-    "autoprefixer": "^8.0.0",
-    "babel-core": "^6.26.0",
+    "autoprefixer": "^8.4.1",
+    "babel-core": "^6.26.3",
     "babel-preset-env": "^1.6.1",
-    "browser-sync": "^2.24.1",
-    "browserify": "^16.1.0",
+    "browser-sync": "^2.24.4",
+    "browserify": "^16.2.0",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^7.0.1",
-    "gulp-clean-css": "^3.9.0",
+    "gulp-clean-css": "^3.9.4",
     "gulp-gh-pages": "^0.5.4",
     "gulp-gzip": "^1.4.2",
     "gulp-html-beautify": "^1.0.1",
@@ -38,18 +38,18 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-plumber": "^1.2.0",
     "gulp-postcss": "^7.0.1",
-    "gulp-pug": "^3.3.0",
+    "gulp-pug": "^4.0.1",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify-es": "^1.0.1",
-    "pug": "^2.0.0-rc.4",
+    "pug": "^2.0.3",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "bootstrap": "^4.1.1",
     "hammerjs": "^2.0.8",
     "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "popper.js": "^1.14.3"
   }
 }
